@@ -250,7 +250,7 @@ MonoBehaviour:
   rowCount: 9
   colCount: 8
   prefab: {fileID: 3121004669766835716, guid: 44ef68cfe24c3bd4da3e795107759e11, type: 3}
-  tileSize: 0.9
+  tileSize: 1
   colors:
   - {r: 1, g: 0, b: 0, a: 1}
   - {r: 0, g: 0.19600487, b: 1, a: 1}
